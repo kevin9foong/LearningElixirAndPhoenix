@@ -1,6 +1,11 @@
 # Identicon
 
-**TODO: Add description**
+Generates Identicon profile pictures based on the unique String input
+
+Usage: 
+1. run 'iex -S mix' to launch iex shell
+
+2. Identicon.main(string input) 
 
 ## Installation
 
